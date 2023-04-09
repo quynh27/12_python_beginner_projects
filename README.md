@@ -1,1 +1,1 @@
-# 12_python_beginner_projects
+# 12_python_projects
